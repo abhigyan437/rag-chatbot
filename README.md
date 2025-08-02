@@ -3,7 +3,7 @@ A comprehensive Retrieval-Augmented Generation (RAG) chatbot system built with F
 
 
 
-🚀 Features
+Features
 
 1) Document Ingestion: Supports PDF, DOCX, and TXT files
 2) Vector Search: FAISS-powered similarity search for relevant content retrieval
